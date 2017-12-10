@@ -1,0 +1,8 @@
+node js
+
+Babel to transpile source code into ES5 compatible javascript code
+
+babel-cli - installs babel, babel command line tool
+babel-preset - instructions which feartures babel should transpile
+babel-preset-latest - transpiles latest ES6 feartures
+babel-preset-stage-0 - for experimental features
