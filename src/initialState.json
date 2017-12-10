@@ -1,0 +1,28 @@
+{
+  "allSkidays": [
+    {
+      "resort": "Kirkwood",
+      "date": "2016-12-7",
+      "powder": true,
+      "backcountry": false
+    },
+    {
+      "resort": "Kirkwood",
+      "date": "2016-12-7",
+      "powder": true,
+      "backcountry": false
+    },
+    {
+      "resort": "Kirkwood",
+      "date": "2016-12-7",
+      "powder": true,
+      "backcountry": false
+    }
+  ],
+  "goal": 10,
+  "errors": ["This is not the correct month to go sking"],
+  "resortNames": {
+    "fetching": false,
+    "suggestions": ["SquakValley", "Snowbird", "RiftValley"]
+  }
+}
